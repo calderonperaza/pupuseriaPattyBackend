@@ -1,11 +1,11 @@
 {
-  "name": "mongodb",
-  "connector": "mongodb",
-  "url": "",
-  "host": "localhost",
-  "port": 27017,
-  "user": "",
-  "password": "",
-  "database": "resbar",
-  "useNewUrlParser": true
+    "name": "mongodb",
+    "connector": "mongodb",
+    "url": "mongodb+srv://pupuseriaPatty:ZYeO8XalQOV7HK6L@cluster0-pfvwk.mongodb.net/pupuseriaPatty?retryWrites=true&w=majority",
+    "host": "cluster0-pfvwk.mongodb.net",
+    "port": 27017,
+    "user": "pupuseriaPatty",
+    "password": "ZYeO8XalQOV7HK6L",
+    "database": "pupuseriaPatty",
+    "useNewUrlParser": true
 }
