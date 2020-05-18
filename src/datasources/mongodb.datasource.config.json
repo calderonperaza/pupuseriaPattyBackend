@@ -2,5 +2,11 @@
     "name": "mongodb",
     "connector": "mongodb",
     "url": "mongodb+srv://pupuseriaPatty:ZYeO8XalQOV7HK6L@cluster0-pfvwk.mongodb.net:27017/pupuseriaPatty?retryWrites=true&w=majority",
-
+    "host": "cluster0-pfvwk.mongodb.net",
+    "port": 27017,
+    "user": "pupuseriaPatty",
+    "password": "ZYeO8XalQOV7HK6L",
+    "database": "pupuseriaPatty",
+    "useUnifiedTopology": true,
+    "useNewUrlParser": true
 }
