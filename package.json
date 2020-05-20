@@ -1,5 +1,5 @@
 {
-    "name": "pupuseriapattybackend",
+    "name": "lastiasfoodbackend",
     "version": "1.0.0",
     "description": "NodeJS",
     "keywords": [
@@ -29,6 +29,7 @@
         "docker:run": "docker run -p 3000:3000 -d resbar-apirest-2020",
         "migrate": "node ./dist/migrate",
         "start": "node -r source-map-support/register .",
+        "prestart": "npm run build",
         "prepublishOnly": "npm run test"
     },
     "repository": {
