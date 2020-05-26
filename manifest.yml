@@ -1,5 +1,7 @@
 ---
 applications:
-  - name: lastiasfoodbackend
+  - name: pupuseriapattybackend
     random-route: true
     memory: 128M
+env:
+  TZ: 'America/El_Salvador'
