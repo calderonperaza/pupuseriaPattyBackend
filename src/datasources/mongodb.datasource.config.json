@@ -8,5 +8,6 @@
     "password": "vv01KJ8wqKjEhoG8",
     "database": "pupuseriaPatty",
     "useUnifiedTopology": true,
-    "retryWrites": true
+    "retryWrites": true,
+    "TZ": "America/El_Salvador"
 }
